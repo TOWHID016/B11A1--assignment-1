@@ -136,7 +136,7 @@
     border-radius: 8px;
 }
 /*skills_vision end*/
-
+/*questions start*/
 .quotation{
     padding:  48px;
     background-color: #ffffff;
@@ -145,3 +145,39 @@
     background-repeat: no-repeat;
     background-position: 50px 50px;
 }
+/*questions end*/
+/*table_questions start*/
+.table_questions{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.backbb{
+    padding: 32px;
+    background-color: #ffffff;
+    border-radius: 16px;
+}
+.all_table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.table_head1, .table_head2{
+    border: 1px solid #8b8b8b;
+    padding: 24px;
+    background-color: #C6E4D6;
+}
+.table_head1{
+       text-align: left; 
+}
+.table_data{
+    border: 1px solid #8b8b8b;
+    padding: 24px;
+}
+.button_text_align{
+    text-align: center;
+}
+.table_button{
+    background-color: #C6E4D6;
+    border-radius: 4px;
+    padding: 24px;
+}
+/*table_questions end*/
